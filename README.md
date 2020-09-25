@@ -6,7 +6,7 @@ Video link : https://youtu.be/056V6Ln_18w
 
 # Screenshots
 
-<img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%201.png" width="384" height="198" /> <img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%202.png" width="384" height="198" /> 
+<img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%201.png" width="416" height="198" /> <img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%202.png" width="416" height="198" /> 
 <img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%203.png" width="384" height="198" /> 
 <img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%204.png" width="384" height="198" /> 
 <img src="https://github.com/thgeorge-se/Unity-Zombie-Apocalypse/blob/master/Screenshots/Screenshot%205.png" width="384" height="198" /> 
